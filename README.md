@@ -1,4 +1,4 @@
-# Discourse-NTU-Chinese-Discourse-Resources
+# NTU Chinese Discourse Resources
 
 Welcome to NTU Chinese Discourse Resources.
 
